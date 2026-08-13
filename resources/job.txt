@@ -1,0 +1,10 @@
+Looking for Java Developer
+
+Required Skills:
+
+Java
+SQL
+Spring Boot
+React
+HTML
+CSS
